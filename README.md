@@ -12,7 +12,7 @@
 - Prioritizing Mathematics learning by leading curriculum development, supporting the instructors, and fostering a collaborative and innovative learning environment.
   
 **Mathematics teacher at Secondery  @ Ministry of Education and Higher Education Qatar (_December 2009 -Sep 2016_)**
--Incorporating Excel and data analytics skills empowered me, particularly when instructing subjects like calculus, statistics, linear algebra, and geometry, to make data-driven decisions, personalize learning, and improve student outcomes
+-Incorporating Excel and data analytics skills empowered me, particularly when instructing subjects like calculus, statistics, linear algebra, and geometry, to make data-driven decisions, personalize Learning, and improve student outcomes
 
 ## Projects
 ### Using Qatar E-learning website (_Under prosessing_)
@@ -25,7 +25,7 @@ Data Analysis: By analyzing assessment results, I identify patterns, trends, and
 
 -Teacher Training and Support: As Head of the Department, I use data to provide targeted support and professional development for teachers in my department. This could involve sharing best practices, identifying areas where teachers need additional training, or developing data-driven interventions.
 
-Personalized Learning: I analyse individual student data to identify areas where students need personalized support or enrichment. This might involve recommending specific resources or interventions based on their learning needs.
+Personalized Learning: I analyze individual student data to identify areas where students need personalized support or enrichment. This might involve recommending specific resources or interventions based on their learning needs.
 
 -Data-Driven Decision Making: Analyzing assessment data enables you to make informed decisions about teaching methods, curriculum adjustments, and interventions.
 -Predictive modelling: Using historical data to predict future student performance and identify at-risk students.
@@ -38,14 +38,20 @@ Personalized Learning: I analyse individual student data to identify areas where
 
 ## Licenses & certifications
 -Google Analytics Certification GA4 (_Jan 2025_)
+
 -Professional Certificate in Data Science @ Harvard University (_Started Nouvmer 2024_)
+
 -Associate Data Scientist in Python @ Data Camp (_Started Nouvmer 2024_)
+
 -Microsoft Innovative Educator Expert (_Nouvmer 2025_)
+
 -Microsoft Certified Educator (MCE)(_April 2021_)
+
 -Curriculum Standards Program proficient level Mathematics-Secondary (_June 2013_)
+
 -Using Technology for Evaluating students(_January 2012_)
 
-![Image Alt](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/profesional%20development.jpeg?raw=true).
+![Image Alt](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/profesional%20development.jpeg?raw=true)
 
 ## Skills 
 Planning-Problem Solving-Data Analysis-Classroom Management-Interpersonal Communication-Curriculum Development-Mathematics Olympiad-Deep Mathematical Knowledge-Decision-Making-Subject Matter Expertise-Ability to explain complex ideas clearly-Pedagogical teaching strategies-Assessment and evaluation-Digital Literacy-Reflective practice-Lifelong Learning-professional standards.
