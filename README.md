@@ -37,6 +37,8 @@ Personalized Learning: I analyse individual student data to identify areas where
 -Curriculum Standards Program proficient level Mathematics-Secondary (_June 2013_)
 -Using Technology for Evaluating students(_January 2012_)
 
+![Qatar Educational Website](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/profesional%20development.jpeg?raw=true)
+
 ## Skills 
 Planning-Problem Solving-Data Analysis-Classroom Management-Interpersonal Communication-Curriculum Development-Mathematics Olympiad-Deep Mathematical Knowledge-Decision-Making-Subject Matter Expertise-Ability to explain complex ideas clearly-Pedagogical teaching strategies-Assessment and evaluation-Digital Literacy-Reflective practice-Lifelong Learning-professional standards.
 
