@@ -15,18 +15,18 @@
 
 ## Projects
 ### Using Qatar E-learning website (_Under prosessing_)
--Utilizing the Ministry of Education's website and analyzing assessment data to improve student learning, incorporates several key aspects of data science:
--Data Collection:I systematically gathering data through the interactive activities and assessments which i create, providing a valuable source of information about student understanding and progress.
--Data Analysis: By analyzing assessment results, i am identifying patterns, trends, and areas of strength and weakness in student learning. This allows me to make data-informed decisions about my department's teaching strategies.
+-Utilizing the Ministry of Education's website and analyzing assessment data to improve student learning incorporates several key aspects of data science:
+Data Collection: I systematically gather data through the interactive activities and assessments I create, providing valuable information about student understanding and progress.
+Data Analysis: By analyzing assessment results, I identify patterns, trends, and areas of strength and weakness in student learning. This allows me to make data-informed decisions about my department's teaching strategies.
 -Curriculum Development: I can leverage data insights to inform curriculum development and ensure alignment with Ministry of Education standards. This might involve identifying areas where the curriculum needs to be strengthened or adjusted based on student performance data.
--Teacher Training and Support: As Head of Department, I use data to provide targeted support and professional development for teachers in my department. This could involve sharing best practices, identifying areas where teachers need additional training, or developing data-driven interventions.
--Personalized Learning: By analyzing individual student data, I identify areas where students need personalized support or enrichment. This might involve recommending specific resources or interventions based on their individual learning needs.
--Data-Driven Decision Making: Analyzing assessment data enables you to make informed decisions about your teaching methods, curriculum adjustments, and interventions.
--Predictive modeling: Using historical data to predict future student performance and identify students at risk.
--Machine learning: Developing algorithms that can personalize learning pathways and provide adaptive feedback.
+-Teacher Training and Support: As Head of the Department, I use data to provide targeted support and professional development for teachers in my department. This could involve sharing best practices, identifying areas where teachers need additional training, or developing data-driven interventions.
+Personalized Learning: I analyse individual student data to identify areas where students need personalized support or enrichment. This might involve recommending specific resources or interventions based on their learning needs.
+-Data-Driven Decision Making: Analyzing assessment data enables you to make informed decisions about teaching methods, curriculum adjustments, and interventions.
+-Predictive modelling: Using historical data to predict future student performance and identify at-risk students.
+-Machine learning: Developing algorithms that personalize learning pathways and provide adaptive feedback.
 -Data visualization: Creating interactive visualizations to communicate insights about student learning to stakeholders.
 
-![Qatar Educational Website](C:\Users\a.shalaby0409\OneDrive - Ministry of Education and Higher Education)
+![Qatar Educational Website](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/Qatar-STEM-Education-Summit.jpg?raw=true)
 
 ## Licenses & certifications
 -Google Analytics Certification GA4 (_Jan 2025_)
