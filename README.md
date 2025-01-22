@@ -34,7 +34,7 @@ Personalized Learning: I analyse individual student data to identify areas where
 
 -Data visualization: Creating interactive visualizations to communicate insights about student learning to stakeholders.
 
-![Qatar Educational Website](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/Qatar-STEM-Education-Summit.jpg?raw=true)
+![professional Development](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/15-Professional-Development-Skills-for-Modern-Teachers-scaled.jpg?raw=true) 
 
 ## Licenses & certifications
 -Google Analytics Certification GA4 (_Jan 2025_)
