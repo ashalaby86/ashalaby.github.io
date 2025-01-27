@@ -104,8 +104,6 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 
 https://www.datacamp.com/datalab/w/6b57ceae-a95e-4f81-9eed-79a724f74119/edit
 
-![professional Development](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/15-Professional-Development-Skills-for-Modern-Teachers-scaled.jpg?raw=true) 
-
 ## Licenses & certifications
 -Google Analytics Certification GA4 (_Jan 2025_)
 
@@ -120,8 +118,6 @@ https://www.datacamp.com/datalab/w/6b57ceae-a95e-4f81-9eed-79a724f74119/edit
 -Curriculum Standards Program proficient level Mathematics-Secondary (_June 2013_)
 
 -Using Technology for Evaluating students(_January 2012_)
-
-![Image Alt](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/profesional%20development.jpeg?raw=true)
 
 ## Publications
 
