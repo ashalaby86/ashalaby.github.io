@@ -122,11 +122,17 @@ https://www.datacamp.com/datalab/w/6b57ceae-a95e-4f81-9eed-79a724f74119/edit
 ## Publications
 
 ### The importance of a postgraduate degree in the Data Science field.
+
 Publication/Publisher:UoE
+
 Publication date:1/23/2025
+
 Publication URL:https://qatareducation-my.sharepoint.com/:b:/g/personal/a_shalaby0409_education_qa/EfudX_BvjHZOrXhUwvTcsWYBVlVaUfhEeQipeyfY_2CrTg?e=3suOXl
+
 Description:
+
 Demonstrate competencies in the use of the tools available to online learners.
+
 Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 ## Skills 
