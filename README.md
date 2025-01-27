@@ -1,5 +1,3 @@
-# Data Scientist
-
 #### Technical Skills: Python, R 
 
 ## Education
@@ -15,24 +13,96 @@
 -Incorporating Excel and data analytics skills empowered me, particularly when instructing subjects like calculus, statistics, linear algebra, and geometry, to make data-driven decisions, personalize Learning, and improve student outcomes
 
 ## Projects
-### Using Qatar E-learning website (_Under prosessing_)
--Utilizing the Ministry of Education's website and analyzing assessment data to improve student learning incorporates several key aspects of data science:
-Data Collection: I systematically gather data through the interactive activities and assessments I create, providing valuable information about student understanding and progress.
 
-Data Analysis: By analyzing assessment results, I identify patterns, trends, and areas of strength and weakness in student learning. This allows me to make data-informed decisions about my department's teaching strategies.
+### Building a Retail Data Pipeline
 
--Curriculum Development: I can leverage data insights to inform curriculum development and ensure alignment with Ministry of Education standards. This might involve identifying areas where the curriculum needs to be strengthened or adjusted based on student performance data.
+Walmart is the biggest retail store in the United States. Just like others, they have been expanding their e-commerce part of the business. By the end of 2022, e-commerce represented a roaring $80 billion in sales, which is 13% of total sales of Walmart. One of the main factors that affects their sales is public holidays, like the Super Bowl, Labour Day, Thanksgiving, and Christmas.
 
--Teacher Training and Support: As Head of the Department, I use data to provide targeted support and professional development for teachers in my department. This could involve sharing best practices, identifying areas where teachers need additional training, or developing data-driven interventions.
+[a link]https://www.datacamp.com/datalab/w/522c82be-ba40-41d6-b164-8d32d09524bc/edit
 
-Personalized Learning: I analyze individual student data to identify areas where students need personalized support or enrichment. This might involve recommending specific resources or interventions based on their learning needs.
+### Predicting Movie Rental Durations
 
--Data-Driven Decision Making: Analyzing assessment data enables you to make informed decisions about teaching methods, curriculum adjustments, and interventions.
--Predictive modelling: Using historical data to predict future student performance and identify at-risk students.
+A DVD rental company needs your help! They want to figure out how many days a customer will rent a DVD for based on some features and has approached you for help. They want you to try out some regression models which will help predict the number of days a customer will rent a DVD for. The company wants a model which yeilds a MSE of 3 or less on a test set. The model you make will help the company become more efficient inventory planning.
 
--Machine learning: Developing algorithms that personalize learning pathways and provide adaptive feedback.
+[a link]https://www.datacamp.com/datalab/w/4550f844-57c5-4cfa-a263-a7dddba4b439/edit
 
--Data visualization: Creating interactive visualizations to communicate insights about student learning to stakeholders.
+### Project: Clustering Antarctic Penguin Species
+
+You have been asked to support a team of researchers who have been collecting data about penguins in Antartica! The data is available in csv-Format as `penguins.csv`
+**Origin of this data** : Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+
+[a link]https://www.datacamp.com/datalab/w/2603ef0c-c615-43d4-95a5-4214b0b6a0fe/edit
+
+### Project: Predictive Modeling for Agriculture
+
+Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can be an expensive and time-consuming process, which can cause farmers to prioritize which metrics to measure based on their budget constraints.
+Farmers have various options when it comes to deciding which crop to plant each season. Their primary objective is to maximize the yield of their crops, taking into account different factors. One crucial factor that affects crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen and potassium levels. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
+
+[a link]https://www.datacamp.com/datalab/w/896d7e94-b8eb-4c3c-b36f-0f6972693e43/edit
+
+### Project: Project: Hypothesis Testing with Men's and Women's Soccer Matches
+
+You're working as a sports journalist at a major online sports media company, specializing in soccer analysis and reporting. You've been watching both men's and women's international soccer matches for a number of years, and your gut instinct tells you that more goals are scored in women's international football matches than men's. This would make an interesting investigative article that your subscribers are bound to love, but you'll need to perform a valid statistical hypothesis test to be sure!
+While scoping this project, you acknowledge that the sport has changed a lot over the years, and performances likely vary a lot depending on the tournament, so you decide to limit the data used in the analysis to only official `FIFA World Cup` matches (not including qualifiers) since `2002-01-01`.
+You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. This data is stored in two CSV files: `women_results.csv` and `men_results.csv`.
+
+[a link]https://www.datacamp.com/datalab/w/b502dbae-c026-4ea2-a737-0e53c4c05efb/edit
+
+### Project:Modeling Car Insurance Claim Outcomes
+
+Insurance companies invest a lot of time and money into optimizing their pricing and accurately estimating the likelihood that customers will make a claim. In many countries insurance it is a legal requirement to have car insurance in order to drive a vehicle on public roads, so the market is very large!
+(`Source: https://www.accenture.com/_acnmedia/pdf-84/accenture-machine-leaning-insurance.pdf`) 
+Knowing all of this, On the Road car insurance have requested your services in building a model to predict whether a customer will make a claim on their insurance during the policy period. As they have very little expertise and infrastructure for deploying and monitoring machine learning models, they've asked you to identify the single feature that results in the best performing model, as measured by accuracy, so they can start with a simple model in production.
+They have supplied you with their customer data as a csv file called `car_insurance.csv`, along with a table detailing the column names and descriptions .
+
+[a link]https://www.datacamp.com/datalab/w/6438260f-6704-4ade-9432-21b0dad59958/edit
+
+### Project:Exploring Airbnb Market Trends
+
+Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like `.csv`, `.tsv`, and `.xlsx`.
+
+[a link]https://www.datacamp.com/datalab/w/c0ad1483-ee39-4b48-94fd-aa5c0680db74/edit
+
+### Project:Customer Analytics: Preparing Data for Modeling
+
+A common problem when creating models to generate business value from data is that the datasets can be so large that it can take days for the model to generate predictions. Ensuring that your dataset is stored as efficiently as possible is crucial for allowing these models to run on a more reasonable timescale without having to reduce the size of the dataset.
+You've been hired by a major online data science training provider called *Training Data Ltd.* to clean up one of their largest customer datasets. This dataset will eventually be used to predict whether their students are looking for a new job or not, information that they will then use to direct them to prospective recruiters.
+
+[a link]https://www.datacamp.com/datalab/w/0655fc1c-4cb4-4c1a-b37a-4b5d886d51c1/edit
+
+### Project:Analyzing Crime in Los Angeles
+
+Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World! 
+Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs. However, as with any highly populated city, it isn't always glamorous and there can be a large volume of crime. That's where you can help!
+You have been asked to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
+
+[a link]https://www.datacamp.com/datalab/w/5690f50b-48d4-426a-8568-1c7ce9e548f8/edit
+
+### Project:Visualizing the History of Nobel Prize Winners
+
+The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize.
+The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the `nobel.csv` file in the `data` folder.
+In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
+
+[a link]https://www.datacamp.com/datalab/w/c64b9139-d349-4b2a-945a-44f343b7a9fd/edit
+
+### Project:Exploring NYC Public School Test Result Scores
+
+Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a **maximum score of 800 points**. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
+Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend. 
+You have been provided with a dataset called `schools.csv`, which is previewed below.
+You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
+
+[a link]https://www.datacamp.com/datalab/w/eb0e5ad3-da99-4cfb-bb1f-10aa95aab20f/edit
+
+### Project:Investigating Netflix Movies
+
+**Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
+Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry.
+You work for a production company that specializes in nostalgic styles. You want to do some research on movies released in the 1990's. You'll delve into Netflix data and perform exploratory data analysis to better understand this awesome movie decade!
+You have been supplied with the dataset `netflix_data.csv`, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
+
+[a link]https://www.datacamp.com/datalab/w/6b57ceae-a95e-4f81-9eed-79a724f74119/edit
 
 ![professional Development](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/15-Professional-Development-Skills-for-Modern-Teachers-scaled.jpg?raw=true) 
 
@@ -43,7 +113,7 @@ Personalized Learning: I analyze individual student data to identify areas where
 
 -Associate Data Scientist in Python @ Data Camp (_Started Nouvmer 2024_)
 
--Microsoft Innovative Educator Expert (_Nouvmer 2025_)
+-Microsoft Innovative Educator Expert (_Nouvmer 2024_)
 
 -Microsoft Certified Educator (MCE)(_April 2021_)
 
