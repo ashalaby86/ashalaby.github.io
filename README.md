@@ -26,7 +26,7 @@ A DVD rental company needs your help! They want to figure out how many days a cu
 
 https://www.datacamp.com/datalab/w/4550f844-57c5-4cfa-a263-a7dddba4b439/edit
 
-### Project: Clustering Antarctic Penguin Species
+### Clustering Antarctic Penguin Species
 
 You have been asked to support a team of researchers who have been collecting data about penguins in Antartica! The data is available in csv-Format as `penguins.csv`
 **Origin of this data** : Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
@@ -122,6 +122,16 @@ https://www.datacamp.com/datalab/w/6b57ceae-a95e-4f81-9eed-79a724f74119/edit
 -Using Technology for Evaluating students(_January 2012_)
 
 ![Image Alt](https://github.com/ashalaby86/ashalaby.github.io/blob/Hello-world/images/profesional%20development.jpeg?raw=true)
+
+## Publications
+
+### The importance of a postgraduate degree in the Data Science field.
+Publication/Publisher:UoE
+Publication date:1/23/2025
+Publication URL:https://qatareducation-my.sharepoint.com/:b:/g/personal/a_shalaby0409_education_qa/EfudX_BvjHZOrXhUwvTcsWYBVlVaUfhEeQipeyfY_2CrTg?e=3suOXl
+Description:
+Demonstrate competencies in the use of the tools available to online learners.
+Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 ## Skills 
 Planning-Problem Solving-Data Analysis-Classroom Management-Interpersonal Communication-Curriculum Development-Mathematics Olympiad-Deep Mathematical Knowledge-Decision-Making-Subject Matter Expertise-Ability to explain complex ideas clearly-Pedagogical teaching strategies-Assessment and evaluation-Digital Literacy-Reflective practice-Lifelong Learning-professional standards.
